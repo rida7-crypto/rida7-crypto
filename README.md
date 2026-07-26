@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=520&lines=AI%2FML+Engineer+%7C;Backend+%2B+Data+Pipeline+Builder+%7C;Final-Year+CS+Student+%7C" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <sub>Final-year CS &amp; AI/ML student. I build agentic data systems on<br/>
 weekdays and secure backend services on weekends — sometimes<br/>

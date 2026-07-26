@@ -21,21 +21,40 @@ both in the same afternoon.</sub>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/get-rida"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=6C63FF" /></a>
-<a href="https://github.com/rida7-crypto"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=6C63FF" /></a>
-<a href="mailto:getrida777@gmail.com"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=gmail&logoColor=6C63FF" /></a>
-<a href="https://leetcode.com/get-rida"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=leetcode&logoColor=6C63FF" /></a>
+<a href="https://github.com/rida7-crypto"><img src="https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-RIDA_TARIQUE-6C63FF?style=for-the-badge&logoColor=white" />
+<a href="https://www.linkedin.com/in/get-rida"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=rida7-crypto&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
+<details open>
+<summary><b>About Me</b></summary>
+
+<br/>
+
+```bash
+rida@github ~ % fetch
+
+           /\           OS: Human (Bengaluru Build)
+          /  \          Shell: /bin/coffee
+         /----\         Uptime: 4 years, still compiling
+        /      \        Kernel: B.Tech CS & AI/ML
+       /--------\       Packages: python, java, fastapi, docker, llama-3
+                        Currently running: LiveQuizTube.exe [in dev]
+                        Resource usage: 12% sleep, 88% debugging
 ```
-> whoami
-Final-year CS/AI-ML student. I build data pipelines, REST APIs, and secure
-software systems in Python and Java — currently deep in agentic backends,
-containerized services, and platform reliability.
+
+```diff
++ good at:   turning vague ideas into working REST endpoints
++ good at:   convincing an LLM to check its own homework
+!  bug:     occasionally opens 14 tabs to fix one import error
+-  status:  compiling... please wait
 ```
+
+</details>
 
 <br/>
 
@@ -126,3 +145,15 @@ injection vulnerabilities.
 </div>
 
 <br/>
+
+### certifications
+
+<div align="center">
+
+`IBM SkillsBuild — Machine Learning for Data Science`  ·  `Coursera — Fake News Detection with ML`
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,40:151A2E,100:0B0F1A&height=100&section=footer" />

@@ -117,34 +117,12 @@ injection vulnerabilities.
 
 <br/>
 
-### contribution graph
+### contribution calendar
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rida7-crypto/rida7-crypto/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rida7-crypto/rida7-crypto/output/github-contribution-grid-snake.svg" />
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/rida7-crypto/rida7-crypto/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/rida7-crypto/rida7-crypto/main/github-metrics.svg" alt="isometric contribution calendar" />
 
 </div>
 
-<br/>
-
-### github stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rida7-crypto&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rida7-crypto&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=6C63FF&text_color=C9D1D9" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-`IBM SkillsBuild — Machine Learning for Data Science`  ·  `Coursera — Fake News Detection with ML`
-
-</div>
 <br/>

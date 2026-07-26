@@ -1,50 +1,150 @@
-# Rida Tarique
-**AI/ML Research & Development | Privacy-Preserving AI**
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rida7-crypto&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rida7-crypto&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+<img width="100%" src="https://raw.githubusercontent.com/rida7-crypto/rida7-crypto/main/assets/network.svg" alt="animated network banner" />
 
----
+<sub>PORTFOLIO&nbsp;&nbsp;/&nbsp;&nbsp;BENGALURU, INDIA</sub>
 
-### Professional Profile
-I am an AI/ML enthusiast focused on building real-world solutions with significant business relevance. My work prioritizes the balance between cutting-edge AI innovation and data privacy.
+<h1>Rida Tarique</h1>
 
-- **Current Focus:** Developing an automated PII Redaction tool for sensitive data masking.
-- **Specialization:** Natural Language Processing (NLP), Computer Vision, and Deep Learning.
-- **Objective:** Scaling privacy-focused extensions and refining technical architecture for product-led impact.
-- **Core Philosophy:** Turning complex technical projects into high-impact, user-centric products.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=520&lines=AI%2FML+Engineer+%7C;Backend+%2B+Data+Pipeline+Builder+%7C;Final-Year+CS+Student+%7C" alt="Typing SVG" />
 
----
+<br/><br/>
 
-### Technical Expertise
+<sub>Final-year CS &amp; AI/ML student. I build agentic data systems on<br/>
+weekdays and secure backend services on weekends — sometimes<br/>
+both in the same afternoon.</sub>
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, C, SQL |
-| **Machine Learning** | PyTorch, TensorFlow, Keras, Scikit-Learn, SciPy |
-| **Data Science** | Pandas, NumPy, Matplotlib, Anaconda |
-| **Tools & Design** | MySQL, Figma, Canva |
+<br/><br/>
 
----
+<a href="https://rida777-portfolio.vercel.app"><img src="https://img.shields.io/badge/View my work-6C63FF?style=for-the-badge&logoColor=white" /></a>
+<a href="mailto:getrida777@gmail.com"><img src="https://img.shields.io/badge/Get in touch-0B0F1A?style=for-the-badge&logoColor=white" /></a>
 
-### Featured Projects
-* **MindAnchor:** AI wellness assistant utilizing Hugging Face LLMs and predictive modeling.
-* **Habit-Tracker:** A gamified SQL-based system for behavioral habit formation.
-* **PII Redactor:** A specialized tool designed for automated privacy and data security.
+<br/><br/>
 
----
+<a href="https://www.linkedin.com/in/get-rida"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=6C63FF" /></a>
+<a href="https://github.com/rida7-crypto"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=github&logoColor=6C63FF" /></a>
+<a href="mailto:getrida777@gmail.com"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=gmail&logoColor=6C63FF" /></a>
+<a href="https://leetcode.com/get-rida"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=leetcode&logoColor=6C63FF" /></a>
 
-### Contact Information
-[LinkedIn](https://linkedin.com/in/get-rida) | [Email](mailto:getrida777@gmail.com)
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rida7-crypto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+```
+> whoami
+Final-year CS/AI-ML student. I build data pipelines, REST APIs, and secure
+software systems in Python and Java — currently deep in agentic backends,
+containerized services, and platform reliability.
+```
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rida7-crypto&icon=0&color=0" alt="Visitor Count" />
-</p>
+<br/>
+
+### stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,js,html,css,fastapi,flask,docker,git,github&theme=dark" />
+
+<br/><br/>
+
+`Scikit-Learn` `Pandas` `NumPy` `XGBoost` `SVM` `PCA/SVD` `Power BI`
+`Llama-3` `HuggingFace` `spaCy` `NLTK` `Prompt Engineering` `Embeddings`
+
+</div>
+
+<br/>
+
+### projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**`Smart Data Analyst`**
+Multi-agent data analytics backend
+
+FastAPI backend with a generate-and-verify pipeline — a Critic agent
+validates LLM-generated code for safety before execution, auto-retries
+rejected code, and serves live Plotly charts through a Jinja2 front end.
+
+`Python` `FastAPI` `Docker` `Jinja2`
+[→ repo](https://github.com/rida7-crypto)
+
+</td>
+<td width="50%" valign="top">
+
+**`Uber NCR Ride Analytics`**
+Interactive Streamlit dashboard
+
+Full-stack analytics app on 150K+ NCR ride bookings. Revenue-leakage
+module estimating ₹28M+ in lost revenue from cancellations, segmented
+by driver vs. customer.
+
+`Python` `Streamlit` `Plotly` `Power BI`
+[→ repo](https://github.com/rida7-crypto)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`LiveQuizTube`** — *in development*
+Interactive video RAG automation pipeline
+
+Async ETL pipeline that ingests YouTube URLs, extracts transcripts,
+and chunks text for low-latency LLM context injection, with an
+event-driven front end for real-time delivery.
+
+`Python` `Flask` `LLMs`
+[→ repo](https://github.com/rida7-crypto)
+
+</td>
+<td width="50%" valign="top">
+
+**`Habit Tracker`**
+Java & MySQL CRUD application
+
+Desktop app with a normalized relational schema and JDBC
+parameterized queries to protect data integrity and prevent
+injection vulnerabilities.
+
+`Java` `MySQL` `JDBC` `OOD`
+[→ repo](https://github.com/rida7-crypto)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### contribution graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rida7-crypto/rida7-crypto/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rida7-crypto/rida7-crypto/output/github-contribution-grid-snake.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/rida7-crypto/rida7-crypto/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+### github stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rida7-crypto&show_icons=true&hide_border=true&bg_color=0B0F1A&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rida7-crypto&layout=compact&hide_border=true&bg_color=0B0F1A&title_color=6C63FF&text_color=C9D1D9" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`IBM SkillsBuild — Machine Learning for Data Science`  ·  `Coursera — Fake News Detection with ML`
+
+</div>
+<br/>

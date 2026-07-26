@@ -50,6 +50,7 @@ rida@github ~ % fetch
 ```diff
 + good at:   turning vague ideas into working REST endpoints
 + good at:   convincing an LLM to check its own homework
++ habit:    sees a game on YouTube -> codes it from scratch to play it
 !  bug:     occasionally opens 14 tabs to fix one import error
 -  status:  compiling... please wait
 ```

@@ -155,5 +155,3 @@ injection vulnerabilities.
 </div>
 
 <br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:6C63FF,40:151A2E,100:0B0F1A&height=100&section=footer" />

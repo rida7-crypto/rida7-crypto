@@ -88,7 +88,7 @@ validates LLM-generated code for safety before execution, auto-retries
 rejected code, and serves live Plotly charts through a Jinja2 front end.
 
 `Python` `FastAPI` `Docker` `Jinja2`
-[→ repo](https://github.com/rida7-crypto)
+[→ repo](https://github.com/rida7-crypto/smart-data-analyst)
 
 </td>
 <td width="50%" valign="top">
@@ -101,7 +101,7 @@ module estimating ₹28M+ in lost revenue from cancellations, segmented
 by driver vs. customer.
 
 `Python` `Streamlit` `Plotly` `Power BI`
-[→ repo](https://github.com/rida7-crypto)
+[→ repo](https://github.com/rida7-crypto/Uber_Dashboard_Analysis)
 
 </td>
 </tr>
@@ -116,7 +116,7 @@ and chunks text for low-latency LLM context injection, with an
 event-driven front end for real-time delivery.
 
 `Python` `Flask` `LLMs`
-[→ repo](https://github.com/rida7-crypto)
+[→ repo](https://github.com/rida7-crypto/Live-Quiz-Tube)
 
 </td>
 <td width="50%" valign="top">
@@ -129,7 +129,7 @@ parameterized queries to protect data integrity and prevent
 injection vulnerabilities.
 
 `Java` `MySQL` `JDBC` `OOD`
-[→ repo](https://github.com/rida7-crypto)
+[→ repo](https://github.com/rida7-crypto/Habit-Tracker)
 
 </td>
 </tr>

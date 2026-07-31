@@ -63,12 +63,12 @@ rida@github ~ % fetch
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,js,html,css,fastapi,flask,docker,git,github&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,js,html,css,fastapi,flask,docker,electron,nodejs,git,github&theme=dark" />
 <br/><br/>
 
 `Scikit-Learn` `Pandas` `NumPy` `XGBoost` `SVM` `PCA/SVD` `Power BI`
 `Llama-3` `HuggingFace` `spaCy` `NLTK` `Prompt Engineering` `Embeddings`
+`Electron Forge` `Web Audio API` `SVG/CSS Animation` `IPC`
 
 </div>
 
